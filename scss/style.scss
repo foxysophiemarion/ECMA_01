@@ -1,0 +1,25 @@
+// Файл обнуляющих стилей
+@import "_nullstyle";
+
+//////////////////////////////////////
+///
+
+.wrapper {
+	background-color: rgb(129, 129, 129);
+	width: 100%;
+	min-height: 100%;
+	overflow: hidden;
+	background: #9e4949;
+}
+
+.container {
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+.title {
+	color: #fff;
+	font-size: 54px;
+	font-weight: 700;
+	padding: 20px;
+}
